@@ -1,29 +1,21 @@
-# Welcome to your Lovable project
+# PulseGym
 
-This project was built with [Lovable](https://lovable.dev).
+PulseGym is a modern, responsive gym membership website designed to provide users with a seamless way to explore fitness programs, personal training, group classes, and rehabilitation services.
 
-## Build with Lovable
+This project was **designed and developed by me from scratch** as part of my frontend development portfolio, with a focus on responsive design, clean UI, and a smooth user experience.
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+### 🛠️ Built With
+- HTML
+- CSS
+- JavaScript
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+### 👨🏾‍💻 Author
 
-## Development
+**Aladesuyi Praise Kolade**
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+Frontend Developer & Data Analyst
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+- Portfolio: praisealadesuyi.online
+- GitHub: Aladesuyi20
 
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+> PulseGym is a personal project built from scratch to demonstrate my frontend development and UI/UX skills.
